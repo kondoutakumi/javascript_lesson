@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>連続したflaot</title>    
+    <title>Untitled Document</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;  
+        }
+        dl{
+            width: 600px;
+            overflow: hidden;
+            margin-bottom: 50px;
+        }
+        dt{
+            width: 250px;
+            float: left
+        }
+        
+        dd{
+            width: 300px;
+            float: right
+            
+            
+        }
+    
+    
+    
+    
+    
+    </style>
+    
+    
+    
+    </head>
+
+<body>
+<h1>連続したflpat</h1>
+<dl>
+    <dt>
+        <img src="imges/02.jpg" alt="テクノスの建物"></dt>
+</dl>
+</body>
+</html>
